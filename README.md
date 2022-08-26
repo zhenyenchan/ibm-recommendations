@@ -10,7 +10,7 @@ Recommendations system for articles on the IBM Watson Studio platform - Data Sci
 
 ## Installation <a name="installation"></a>
 
-Libraries used: sys nltk re string numpy pandas pickle sklearn flask json plotly sqlalchemy. Python version: 3.7.12
+Libraries used: pandas numpy matplotlib pickle. Python version: 3.7.12
 
 ## Project Motivation<a name="motivation"></a>
 
